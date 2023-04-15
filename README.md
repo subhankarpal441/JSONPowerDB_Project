@@ -74,4 +74,4 @@ Here's an example JavaScript code:
     updateBtn.addEventListener('click', updateProjectData); 
     resetBtn.addEventListener('click', initForm); 
   } 
-});
+  });
